@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UZIMAKY
-- 👀 I’m interested in Web Programming 
+- 👋 Hi, I’m Fauzi Mulyana
+- 👀 I’m interested in Web Programming | Data Analyst
 - 📫 How to reach me instagram : fauzimulyanaa
 
 <!---
